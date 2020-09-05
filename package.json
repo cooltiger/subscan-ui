@@ -42,7 +42,7 @@
     "@vue/cli-service": "^3.0.5",
     "babel-plugin-component": "^1.1.1",
     "compression-webpack-plugin": "^2.0.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.0.1",
     "svg-sprite-loader": "^3.8.0",
     "vue-cli-plugin-element": "^1.0.0",
